@@ -201,11 +201,11 @@ footer {
    padding-top: 50px;
    p{
     font-family: math;
-    color: #13e4ba;
+    color: blue;
    }
    a{
     text-decoration: none;
-    color: #13e4ba;
+    color: blue;
     font-size: 1.1rem;
     font-weight: 600;
    }
